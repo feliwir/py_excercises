@@ -9,4 +9,4 @@ Du kannst das ganze auch lokal in normalen Python testen.
 
 ## Aufgabe 1: Bilder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feliwir/py_excercises/HEAD?filepath=Images.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feliwir/py_excercises/excercise-1?filepath=01_images%2Ftask.ipynb)
