@@ -1,12 +1,12 @@
-# Python Aufgaben
+# Python excercises
 
 ## Jupyter Notebook
 
-Die Aufgaben sind als Jupyternotebooks formuliert. Das ist eine interaktive Python Umgebung im Browser:
+The excercises are created as jupyter notebooks. That is an interactive python environment inside your browser:
 https://jupyter.org/index.html
 
-Du kannst das ganze auch lokal in normalen Python testen.
+However you should also be able to solve the tasks in your local python environment if that's preferred.
 
-## Aufgabe 1: Bilder
+## Excercise 1: Images
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feliwir/py_excercises/excercise-1?filepath=01_images%2Ftask.ipynb)
